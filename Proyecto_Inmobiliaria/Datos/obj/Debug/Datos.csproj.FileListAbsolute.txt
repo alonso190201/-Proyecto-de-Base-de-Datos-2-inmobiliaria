@@ -1,0 +1,27 @@
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\bin\Debug\Datos.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\bin\Debug\Datos.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\bin\Debug\Entidad.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\bin\Debug\Entidad.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\bin\Debug\Datos.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\bin\Debug\Datos.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\bin\Debug\Entidad.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\bin\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\bin\Debug\Datos.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\bin\Debug\Datos.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\bin\Debug\Entidad.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\bin\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Datos\obj\Debug\Datos.pdb

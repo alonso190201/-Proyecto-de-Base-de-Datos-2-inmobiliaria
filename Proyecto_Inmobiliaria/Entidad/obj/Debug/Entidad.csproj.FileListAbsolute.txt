@@ -1,0 +1,18 @@
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Entidad\bin\Debug\Entidad.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Entidad\bin\Debug\Entidad.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Entidad\bin\Debug\Entidad.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Entidad\bin\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Entidad\bin\Debug\Entidad.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Entidad\bin\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Entidad\obj\Debug\Entidad.pdb

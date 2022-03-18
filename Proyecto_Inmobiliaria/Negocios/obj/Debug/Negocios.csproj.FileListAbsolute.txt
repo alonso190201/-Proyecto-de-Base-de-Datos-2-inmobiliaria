@@ -1,0 +1,33 @@
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\bin\Debug\Negocios.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\bin\Debug\Negocios.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\bin\Debug\Datos.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\bin\Debug\Entidad.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\bin\Debug\Datos.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\bin\Debug\Entidad.pdb
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.dll
+D:\PROYECTO ESTE SI\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\bin\Debug\Negocios.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\bin\Debug\Negocios.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\bin\Debug\Datos.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\bin\Debug\Entidad.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\bin\Debug\Datos.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\bin\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.dll
+D:\upt\2021-II\progr2\inmobiliaria_04_01_2021\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\bin\Debug\Negocios.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\bin\Debug\Negocios.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\bin\Debug\Datos.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\bin\Debug\Entidad.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\bin\Debug\Datos.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\bin\Debug\Entidad.pdb
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.dll
+D:\upt\2021-II\progr2\Proyecto_Inmobiliaria\Negocios\obj\Debug\Negocios.pdb
